@@ -1,0 +1,32 @@
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\generalsolution.pdb
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\EPPlus.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\System.Buffers.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\System.Memory.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\obj\Debug\A9_Levels_Creator.csproj.AssemblyReference.cache
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\obj\Debug\A9_Levels_Creator.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\obj\Debug\A9_Levels_Creator.csproj.CopyComplete
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\obj\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution - Copy\generalsolution\obj\Debug\generalsolution.pdb
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\generalsolution.pdb
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\EPPlus.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\System.Buffers.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\System.Memory.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\obj\Debug\A9_Levels_Creator.csproj.AssemblyReference.cache
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\obj\Debug\A9_Levels_Creator.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\obj\Debug\A9_Levels_Creator.csproj.CopyComplete
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\obj\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\A9_Levels_Creator\A9_Levels_Creator\obj\Debug\generalsolution.pdb
